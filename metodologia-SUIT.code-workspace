@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "metodologia-SUIT",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "metodologia-SUIT",
+		"liveServer.settings.port": 5501
+	}
+}
